@@ -1,4 +1,4 @@
-Feature: Smoke Test
+Feature: Smoke Test 
 
 
 Scenario: Successful Login with Valid Credentials
